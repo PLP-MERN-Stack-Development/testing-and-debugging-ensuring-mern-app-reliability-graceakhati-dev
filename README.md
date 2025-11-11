@@ -1096,12 +1096,6 @@ testing-and-debugging-ensuring-mern-app-reliability-graceakhati-dev/
 
 ---
 
-## License
-
-ISC
-
----
-
 ## Contributing
 
 1. Fork the repository
@@ -1112,4 +1106,9 @@ ISC
 
 ---
 
-**Last Updated**: November 2025
+## Author
+Grace Akhati 
+PLP JULY 2025 COHORT
+
+
+
